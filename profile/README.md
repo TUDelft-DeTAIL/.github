@@ -1,12 +1,15 @@
-## Hi there 👋
+## Hello, World! :earth_africa:
 
+Welcome at the GitHub page of the [TU Delft Tensor AI Lab](https://www.tudelft.nl/en/ai/detail)
+
+* 🙋‍ DeTaiL is about training & innovation in tensor-based AI methods for sustainability :seedling:, system identification :chart_with_upwards_trend: and biomedical signals :brain:
+* 🌈 If you want to contribute to our work, please get in touch with us! You can for example use our Twitter or LinkedIn accounts.
+* 🧙 Remember, you can do mighty things with the power of tensors!
 <!--
 
-**Here are some ideas to get you started:**
+Things we can add in the future
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+👩‍💻 Useful resources - where can people find our papers?
+🍿 Fun facts -anyone a good idea?
+🧙 Remember, you can do mighty things with the power of [Tensors](Add links to Vision Paper and Tutorial Paper)
 -->
